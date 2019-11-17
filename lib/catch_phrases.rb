@@ -9,4 +9,6 @@ def toadstool
 end
 
 def link
-  phrase = 
+  phrase = "Do A Barrel Roll!"
+  puts phrase
+end
